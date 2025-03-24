@@ -1,3 +1,2 @@
-# 我是 README.md
-
-sdfasbjksasc
+# git_test
+i want to test
