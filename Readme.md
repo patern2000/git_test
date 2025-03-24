@@ -1,2 +1,1 @@
-# git_test
-i want to test
+# 我是 README.md
